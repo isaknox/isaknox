@@ -1,9 +1,9 @@
-### Hi there 👋
+### 
+![final_62c7917f92216f00d33311d8_686417](https://user-images.githubusercontent.com/108907985/177903811-f42040fe-8884-4f41-aa1a-a901a9ee681e.gif)
 
 <!--
 **isaknox/isaknox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![final_62c7917f92216f00d33311d8_686417](https://user-images.githubusercontent.com/108907985/177903811-f42040fe-8884-4f41-aa1a-a901a9ee681e.gif)
 
 Here are some ideas to get you started:
 
